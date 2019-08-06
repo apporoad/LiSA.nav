@@ -4,7 +4,7 @@ body{
 }
 a{
     text-decoration-line: none;
-    color: #e63d3d;
+    color: #ff3099;
 }
 .main{
     position: absolute;
@@ -62,7 +62,7 @@ a{
     height: 100%;
     width: 100%;
     display: block;
-    color: #e63d3d;
+    color: #ff3099;
     text-decoration-line: none;
 }
 .products li:hover{
@@ -100,4 +100,17 @@ a{
     color: #555;
     line-height: 30px;
     font-weight: bold;
+}
+
+.login {
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: fantasy;
+    float: right;
+    width: 180px;
+    height: 40px;
+    font-size: 30px;
+    color: #ff3099;
+    text-shadow: 0px 1px 0px #333;
+    text-align: center;
 }
